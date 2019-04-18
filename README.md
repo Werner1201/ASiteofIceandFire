@@ -3,5 +3,5 @@ Projeto Curricular Articulador do 1Âº Periodo dos Cursos de Sistemas da InformaÃ
 # Integrantes: 
 <br>Leonardo dos Santos Boa Morte.||Link do Github: https://github.com/Boa-Morte
 <br>Werner Romling Salustiano.    ||Link do Github: https://github.com/Werner1201
-<br>Gustavo Gomes.                ||Link do Github:
+<br>Gustavo Gomes.                ||Link do Github: https://github.com/gaoutsv
 <!--TODO: Falta Acrescentar alguns links e integrantes.--!>
